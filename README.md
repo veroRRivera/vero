@@ -1,0 +1,2 @@
+# vero
+aplicacion movil
